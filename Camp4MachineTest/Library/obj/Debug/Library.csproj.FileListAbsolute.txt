@@ -1,0 +1,7 @@
+D:\C#\ConsoleApplication_propelAug2023\Camp4MachineTest\Library\bin\Debug\Library.exe.config
+D:\C#\ConsoleApplication_propelAug2023\Camp4MachineTest\Library\bin\Debug\Library.exe
+D:\C#\ConsoleApplication_propelAug2023\Camp4MachineTest\Library\bin\Debug\Library.pdb
+D:\C#\ConsoleApplication_propelAug2023\Camp4MachineTest\Library\obj\Debug\Library.csproj.AssemblyReference.cache
+D:\C#\ConsoleApplication_propelAug2023\Camp4MachineTest\Library\obj\Debug\Library.csproj.CoreCompileInputs.cache
+D:\C#\ConsoleApplication_propelAug2023\Camp4MachineTest\Library\obj\Debug\Library.exe
+D:\C#\ConsoleApplication_propelAug2023\Camp4MachineTest\Library\obj\Debug\Library.pdb
